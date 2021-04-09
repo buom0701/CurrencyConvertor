@@ -27,7 +27,7 @@ public class CurrencyConvertorController {
 		String [] A = R.split(":");
 		
 		return currency.finalamount(Double.valueOf(A[1])); 
-	//
+	
 	}	
 		
 		
