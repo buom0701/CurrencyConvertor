@@ -5,7 +5,7 @@ public class Currency {
 	private double amount;
 	private String fromcurrency;
 	private String tocurrency;
-	
+	//adding comment to test integration
 	
 	public double finalamount(double desiredamount) {
 		
@@ -34,3 +34,4 @@ public class Currency {
 	
 	
 }
+
